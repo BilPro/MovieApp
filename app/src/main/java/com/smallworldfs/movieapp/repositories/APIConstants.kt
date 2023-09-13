@@ -1,0 +1,7 @@
+package com.smallworldfs.movieapp.repositories
+
+object APIConstants {
+
+    const val TOKEN : String = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhNDdiMjFjYWJhMGRkZTI4ZTA3YTNkMjE4MThmNTM5YyIsInN1YiI6IjY1MDA0NTE2NmEyMjI3MDBmZDIwMzczYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.0K4LtZ9qC9ZdQJZxSERrElmeDMcT-znra8lnSumiHKA"
+
+}
